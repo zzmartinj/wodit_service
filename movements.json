@@ -1,0 +1,11 @@
+{
+    "movements": [
+        { "name": "Squat", "type": "Weight Lifting" },
+        { "name": "Front squat", "type": "Weight Lifting" },
+        { "name": "Push-ups", "type": "Gymnastics" },
+        { "name": "Muscle-ups", "type": "Gymnastics" },
+        { "name": "Pistol Squats", "type": "Gymnastics" },
+        { "name": "Running", "type": "Cardio" },
+        { "name": "Rowing", "type": "Cardio" }
+    ]
+}
